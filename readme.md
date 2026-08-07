@@ -1,7 +1,7 @@
 # ⚙️ MARK L (50)
-### The Ultimate Cross-Platform Personal AI Assistant — By FatihMakes
+### The Ultimate Cross-Platform Personal AI Assistant — By Mujahid Dev
 
-> 📺 **[Watch the full setup video on YouTube](https://www.youtube.com/@FatihMakes)**
+> 📺 **[Watch the full setup video on YouTube](https://www.youtube.com/@Mujahid Dev)**
 
 A real-time voice AI that can hear, see, understand, and control your computer — on any OS. Supports Windows, macOS, and Linux. Built on the Gemini Live API for native audio streaming, delivering zero subscriptions and total digital autonomy.
 
@@ -96,7 +96,7 @@ News queries now run Gemini Grounded Search and DuckDuckGo news simultaneously i
 ## ⚡ Quick Start
 
 ```bash
-git clone https://github.com/FatihMakes/Mark-L.git
+git clone https://github.com/Mujahid Dev/Mark-L.git
 cd Mark-L
 pip install -r requirements.txt
 python main.py
@@ -170,5 +170,5 @@ Engineered by a developer building a real-world JARVIS-style assistant.
 
 | Platform | Link |
 | --- | --- |
-| YouTube | [@FatihMakes](https://www.youtube.com/@FatihMakes) |
-| Instagram | [@fatihmakes](https://www.instagram.com/fatihmakes) |
+| YouTube | [@Mujahid Dev](https://www.youtube.com/@Mujahid Dev) |
+| Instagram | [@Mujahid Dev](https://www.instagram.com/Mujahid Dev) |
